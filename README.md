@@ -6,6 +6,8 @@ In my spare time, I often study and code in Python to solve several existing pro
 ### 📄 Publications
 - [Sonic Log Prediction Based on Extreme Gradient Boosting (XGBoost) Machine Learning Algorithm by Using Well Log Data](https://doi.org/10.1051/bioconf/20248909003)
 - [Prediction of Compressional Slowness from Conventional Well Log Data using the Gradient Boosting Algorithm](https://iopscience.iop.org/article/10.1088/1755-1315/1288/1/012024/meta)
+- [Enhanced Lithology Classification in Well Log Data Using Ensemble Machine Learning Techniques](https://doi.org/10.1109/AIMS61812.2024.10512485).
+- [Filling-well: An effective technique to handle incomplete well-log data for lithology classification using machine learning algorithms](https://doi.org/10.1016/j.mex.2024.103127).
 
 I also actively write articles on Medium about programming and data processing when I have free time.
 - [Medium](https://medium.com/@alifnurdien27)
