@@ -1,5 +1,5 @@
 ## Hi there !👋
-I am Alif Nurdien Fitrah, currently I am a geophysical engineering student at the Sepuluh Nopember Institute of Technology, Surabaya. I have an interest in data and the application of machine learning in the real world. 
+I am Alif Nurdien Fitrah, I'm freshgraduate student of geophysical engineering at the Sepuluh Nopember Institute of Technology, Surabaya. I have an interest in data and the application of machine learning in the real world. 
 
 In my spare time, I often study and code in Python to solve several existing problems. Apart from that, I am also active in participating in research and producing several paper publications.
 
