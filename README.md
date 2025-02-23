@@ -11,6 +11,7 @@ In my spare time, I often study and code in Python to solve several existing pro
 
 I also actively write articles on Medium about programming and data processing when I have free time.
 - [Medium](https://medium.com/@alifnurdien27)
+- [Google Scholar](https://scholar.google.com/citations?user=FoGhUdcAAAAJ&hl=en)
 
 ### 📬 Find Me
 If you have questions or provide criticism or suggestions about the projects I am working on, you can contact me at:
